@@ -8,6 +8,7 @@ function BlogList({ posts }) {
       <Header />
       <div className="root">
         <h2>Blog Posts</h2>
+        <ul>
         {posts.map((post) => (
           <BlogListing
             postTitle={post.title}
@@ -15,6 +16,7 @@ function BlogList({ posts }) {
             postId={post.id}
           />
         ))}
+        </ul>
       </div>
       <Footer />
     </>

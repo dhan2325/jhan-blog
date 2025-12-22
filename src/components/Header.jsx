@@ -1,6 +1,6 @@
 function Header() {
   return (
-    <div className="text-box">
+    <div className="titleBlock">
       <h1>
         Junyoung Han
         <hr />

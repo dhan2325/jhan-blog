@@ -22,9 +22,9 @@ function BlogReader() {
   return (
     <>
       <Header />
-      <div className="text-page">
+      {fileName ? <div className="text-page">
         <Markdown rehypePlugins={[rehypeRaw]}>{content}</Markdown>
-      </div>
+      </div> : <p>Loading...</p>}
       <Footer />
     </>
   );

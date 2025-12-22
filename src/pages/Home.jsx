@@ -11,7 +11,7 @@ function Home() {
           <img src="/src/assets/images/me.jpg" alt="this is me!" style={{ width: '300px', height: '400px', float: 'right' }} />
         </div>
         <div className="text-box">
-          I'm a <a href="./blog/engsci_robo">Robotics Engineering</a> student at the University of Toronto who specializes in writing software that helps enable robotic systems. When I'm not stuck in a Terminal window, I enjoy being mediocre at both bouldering and latte art.
+          I'm a software engineer with interests in building reliable applications and enabling robnotic systems. When I'm not stuck in a Terminal window, I take pride in being mediocre at both bouldering and latte art.
         </div>
 
         <h3>Quick summary about me:</h3>
@@ -24,8 +24,7 @@ function Home() {
               previous software/firmware engineer at <a href="https://www.engdesignlab.com/">EDL</a>
             </li>
             <li>
-              previous developer for the planning team at
-              <a href="https://www.autodrive.utoronto.ca/">AuToronto</a>
+              previous developer for the planning team at <a href="https://www.autodrive.utoronto.ca/">AuToronto</a>
             </li>
           </ul>
         </div>

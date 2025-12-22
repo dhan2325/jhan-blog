@@ -47,6 +47,13 @@ div.footer {
     margin-right: 60px;
 }
 
+div.titleBlock {
+  text-align: left;
+  margin-left: 60px;
+  margin-right: 60px;
+
+}
+
 img {
     max-width: 100%;
     max-height: 100%;

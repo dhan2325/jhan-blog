@@ -2,9 +2,9 @@
 
 function BlogListing({ postTitle, postDate, postId }) {
   return (
-    <div className="text-box">
+    <li>
       <a href={`/blog/${postId}`}>{postTitle}</a> ({postDate})
-    </div >
+    </li>
   );
 }
 
