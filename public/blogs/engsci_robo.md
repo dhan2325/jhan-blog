@@ -12,7 +12,7 @@ When applying to Universities as a High School senior and doing some research on
 So for anyone looking just for a **"how badly did you suffer"** section, there you have it. In this sense, the program was largely as advertised. I chose the program because I wanted to be challenged and I certainly got what I asked for. I even had fun from time to time. To prove it, here's a photo of me and my friend Derek clearly enjoying ourselves at our Robotics lab.
 
 
-<img alt="me having fun in engsci" src="/src/assets/images/happy.jpg" style="width:50%"/>
+<img alt="me having fun in engsci" src="/images/happy.jpg" style="width:50%"/>
 
 ## Being "Multi-disciplinary"
 One of the things that the faculty never fails to mention when talking about EngSci is just how "multi-disciplinary" the program is. One of the unique features of the Engineering Science program is that students get not one, but two years of general engineering courses before they are required to specialize, while most other University Engineering programs offer at most one year of general coursework before a specialization is required. After having completed those two years pre-specialization, I must admit I was left with some very mixed feelings about the program's structure.

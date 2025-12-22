@@ -8,7 +8,7 @@ function Home() {
       <div className="root">
         <h2>Hey, my name's Junyoung</h2>
         <div className="border-box">
-          <img src="/src/assets/images/me.jpg" alt="this is me!" style={{ width: '300px', height: '400px', float: 'right' }} />
+          <img src="/images/me.jpg" alt="this is me!" style={{ width: '300px', height: '400px', float: 'right' }} />
         </div>
         <div className="text-box">
           I'm a software engineer with interests in building reliable applications and enabling robnotic systems. When I'm not stuck in a Terminal window, I take pride in being mediocre at both bouldering and latte art.
