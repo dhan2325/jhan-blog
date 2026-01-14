@@ -12,7 +12,7 @@ function BlogList({ posts }) {
         {posts.map((post) => (
           <BlogListing
             postTitle={post.title}
-            postDate={"January 1, 2024"}
+            postDate={post.date}
             postId={post.id}
           />
         ))}
